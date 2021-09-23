@@ -1,0 +1,2 @@
+É um arquivo sobre um curso no alura sobre JavaScript! 
+Total de 20h de curso.
